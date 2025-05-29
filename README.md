@@ -44,7 +44,7 @@ Pruebas automatizadas y funcionales para validar rutas, clases de equivalencia y
 🔹 **[API Stand Tests](https://github.com/MilenaVargas8527/api_stand_tests)**  
 Pruebas de endpoints REST con Postman, validación de respuestas y estructura de datos.
 
-🔹 **[Urban Scooter Tests](https://github.com/MilenaVargas8527/urban-scooter-tests)**  
+🔹 **[Urban Scooter](git@github.com:MilenaVargas8527/Aplicaci-n-web-Urban-Scooter.git**  
 Pruebas funcionales y de integración para aplicación web y móvil de scooters.
 
 ---
