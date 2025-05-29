@@ -44,8 +44,9 @@ Pruebas automatizadas y funcionales para validar rutas, clases de equivalencia y
 🔹 **[API Stand Tests](https://github.com/MilenaVargas8527/api_stand_tests)**  
 Pruebas de endpoints REST con Postman, validación de respuestas y estructura de datos.
 
-🔹 **[Urban Scooter](git@github.com:MilenaVargas8527/Aplicaci-n-web-Urban-Scooter.git**  
-Pruebas funcionales y de integración para aplicación web y móvil de scooters.
+🔹 **[Urban Scooter](https://github.com/MilenaVargas8527/Aplicaci-n-web-Urban-Scooter)**  
+Proyecto final del bootcamp de QA Engineer. Incluye pruebas funcionales, de usabilidad y de integración para la aplicación web y móvil Urban Scooter. Validación de endpoints, análisis de requisitos, diseño de casos de prueba y reporte de errores para garantizar la calidad del servicio de alquiler de scooters eléctricos.
+
 
 ---
 
